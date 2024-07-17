@@ -1,13 +1,13 @@
-# Nce colours for the terminal
+# Nice colours for the terminal
 syntax on
 colorscheme desert
 set cursorline
 
-# Shows number on to help move around
+# Shows numbers on the bottom to help move around
 set number
 set relativenumber
 
-# Help write python code tabs to 4 spaces 
+# Helps write python code tabs to 4 spaces 
 set expandtab
 set tabstop=4
 set shiftwidth=4 
