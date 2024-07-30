@@ -6,3 +6,4 @@ Some configuration files for development
 ## License
 
 Distributed with no conditions. See `LICENSE.txt` for more information.
+
